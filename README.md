@@ -21,5 +21,5 @@ Contact: Message on LinkedIn for email · https://www.linkedin.com/in/kyle-stanj
 | 9 | Score the Tenant | Cloud security posture | coming, week 9 |
 | 10 | The Breach (capstone) | Full incident investigation | coming, week 10 |
 
-[Link to Test](Stan-jones/security-portfolio/Test)
-[Link to Test2](Stan-jones/security-portfolio/test2.md)
+[Link to Test](security-portfolio/Test)
+[Link to Test2](security-portfolio/test2.md)
