@@ -22,4 +22,4 @@ Contact: Message on LinkedIn for email · https://www.linkedin.com/in/kyle-stanj
 | 10 | The Breach (capstone) | Full incident investigation | coming, week 10 |
 
 [Link to Test](Stan-jones/security-portfolio/Test)
-[Link to Test](Stan-jones/security-portfolio/test2)
+[Link to Test2](Stan-jones/security-portfolio/test2.md)
