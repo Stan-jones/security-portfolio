@@ -4,7 +4,7 @@ Documented cloud security investigations, built in a live Azure tenant
 (Mad Hat Labs, a multi-user training environment).
 
 Target role: SOC Analyst / Security Analyst
-Currently: NOC Technician | New York / Remote
+Currently: NOC Technician | New York / Remote  
 Contact: Message on LinkedIn for email · https://www.linkedin.com/in/kyle-stanjones/
 
 ## Investigations
