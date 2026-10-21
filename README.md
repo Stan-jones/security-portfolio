@@ -20,3 +20,6 @@ Contact: Message on LinkedIn for email · https://www.linkedin.com/in/kyle-stanj
 | 8 | Hunt the Threat | SIEM operations (Sentinel) | coming, week 8 |
 | 9 | Score the Tenant | Cloud security posture | coming, week 9 |
 | 10 | The Breach (capstone) | Full incident investigation | coming, week 10 |
+
+[Link to Test](Stan-jones/security-portfolio/Test)
+[Link to Test](Stan-jones/security-portfolio/test2)
