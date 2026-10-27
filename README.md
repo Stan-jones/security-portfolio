@@ -10,7 +10,7 @@ Contact: Message on LinkedIn for email · https://www.linkedin.com/in/kyle-stanj
 ## Investigations
 | # | Title | Focus | Write-up |
 |---|-------|-------|----------|
-| 1 | Operation Dead Deploy | Governance forensics, deployment audit trail | [Write-up In Progress](https://github.com/Stan-jones/security-portfolio/blob/main/Operation_Dead_Deploy.md) |
+| 1 | Operation Dead Deploy | Governance forensics, deployment audit trail | [Write-up](https://github.com/Stan-jones/security-portfolio/blob/main/Operation_Dead_Deploy.md) |
 | 2 | The Stolen Identity | App registration attack kill chain (Entra ID) | coming, week 2 |
 | 3 | Privilege Audit | RBAC and least privilege | coming, week 3 |
 | 4 | Spin Up and Lock Down | Compute attack surface | coming, week 4 |
